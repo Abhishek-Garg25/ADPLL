@@ -1,0 +1,39 @@
+Custom Simulation-Only License Agreement
+----------------------------------------
+
+Copyright (c) 2025 Abhishek Garg. All rights reserved.
+
+This All Digital Phase-Locked Loop (ADPLL) project, including all source code,
+documentation, simulation models, and associated files (the "Software"),
+is licensed under the following terms:
+
+1. Permission is granted to any individual or organization to:
+   - View, study, and simulate the Software for **personal, academic, or research purposes only**.
+   - Use the Software as a reference for **educational or evaluation activities**.
+
+2. The following actions are **strictly prohibited** without prior written
+   consent from the copyright holder:
+   - Any commercial use, including but not limited to incorporating the Software
+     into commercial products, tools, or services.
+   - Redistribution of the Software, in whole or in part, in any form (source,
+     binary, or derivative works).
+   - Modification of the Software for the purpose of resale or commercial exploitation.
+   - Use of the CORDIC core or other proprietary modules in synthesizable or
+     production hardware implementations.
+
+3. Disclaimer:
+   - The Software is provided "AS IS", without warranty of any kind, express or implied,
+     including but not limited to the warranties of merchantability, fitness for a
+     particular purpose, and noninfringement.
+   - In no event shall the authors or copyright holders be liable for any claim,
+     damages, or other liability, whether in an action of contract, tort, or otherwise,
+     arising from, out of, or in connection with the Software.
+
+4. Commercial Licensing:
+   - A synthesizable and commercial-grade version of this Software is under
+     development.
+   - For inquiries regarding **commercial licensing**, please contact:
+     <your contact email / website>.
+
+By using, downloading, or simulating the Software, you agree to the terms of
+this License Agreement.
